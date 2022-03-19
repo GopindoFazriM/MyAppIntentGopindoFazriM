@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyappIntentGopindo</string>
+    <string name="move_activity">Pindah Aktifitas</string>
+    <string name="halaman_move_activity">Ini Halaman Aktifitas Pertama</string>
+    <string name="move_with_data">Pindah Dengan Data</string>
+    <string name="data_received">Data Received</string>
+    <string name="move_with_object">Bergerak Dengan Object Percelable</string>
+    <string name="object_received">Object Received</string>
+</resources>
